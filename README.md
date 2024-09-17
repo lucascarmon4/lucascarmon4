@@ -26,7 +26,7 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 - Web Development:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css,jquery)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,jquery,bootstrap)](https://skillicons.dev) 
 
 ## Creative Projects
 

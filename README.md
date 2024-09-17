@@ -32,7 +32,7 @@
 
 🎨 Here are some of my most creative and innovative projects:
 
-1. [Site público](https://vivacredpg.com.br) (VivaCred - Empréstimos Consignados): Developed with React and TypeScript to offer a range of financial products, in an accessible way. The focus was on creating a modern and responsive interface, ensuring easy navigation and quick simulations.
+1. [Public Website](https://vivacredpg.com.br) (VivaCred - Empréstimos Consignados): Developed with React and TypeScript to offer a range of financial products, in an accessible way. The focus was on creating a modern and responsive interface, ensuring easy navigation and quick simulations.
 
 2. ERP (VivaCred - Empréstimos Consignados): Developed to manage internal operations such as production, user control, access, and automations. Using React, TypeScript, PHP, and MySQL, the system provides robust functionalities to optimize processes and improve administrative efficiency.
 

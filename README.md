@@ -20,7 +20,7 @@
     [![My Skills](https://skillicons.dev/icons?i=django,laravel,react,nextjs,nodejs,flask,selenium)](https://skillicons.dev)
 - Databases: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite)](https://skillicons.dev)
 - Tools and Technologies: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)

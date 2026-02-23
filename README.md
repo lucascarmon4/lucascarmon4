@@ -28,18 +28,6 @@
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css,jquery,bootstrap)](https://skillicons.dev) 
 
-## Creative Projects
-
-🎨 Here are some of my most creative and innovative projects:
-
-1. [Public Website](https://vivacredpg.com.br) (VivaCred - Empréstimos Consignados): Developed with React and TypeScript to offer a range of financial products, in an accessible way. The focus was on creating a modern and responsive interface, ensuring easy navigation and quick simulations.
-
-2. ERP (VivaCred - Empréstimos Consignados): Developed to manage internal operations such as production, user control, access, and automations. Using React, TypeScript, PHP, and MySQL, the system provides robust functionalities to optimize processes and improve administrative efficiency.
-
-3. [Tecnoponta](http://aluno.tecnoponta.com.br/) (Backsite - Serviços Online): E-learning platform of Tecnoponta, focused on managing online services, upporting the learning environment, and providing students with easy and intuitive access to their courses.
-
-3. [Farejador de Produtos](https://farejadordeprodutos.com.br/) [Offline] (Backsite - Serviços Online): A system used by Mercado Livre buyers to track prices and compare products. Features included user authentication, subscription plans, and integration with the Mercado Livre API to provide updated and accurate data on products and their price variations.
-
 ## Let's Create Something Incredible! 💫
 
 💬 Want to collaborate on a creative and innovative project? I'm always open to new ideas and partnerships. Get in touch with me, and let's discuss how we can create something truly extraordinary together. ✉️
